@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TaskManager
 //
-//  Created by 中村明 on 2017/05/23.
+//  Created by bldd on 2017/05/23.
 //  Copyright © 2017年 bldd. All rights reserved.
 //
 
